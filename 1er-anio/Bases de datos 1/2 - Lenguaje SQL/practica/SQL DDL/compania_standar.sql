@@ -1,4 +1,5 @@
 CREATE DATABASE empresa_basica;
+GO
 USE empresa_basica
 
  CREATE TABLE DIRECTOR (
